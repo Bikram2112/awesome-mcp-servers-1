@@ -194,6 +194,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="14"/> [sslmon](https://github.com/firesh/sslmon-mcp) - Domain/HTTPS/SSL domain registration information and SSL certificate monitoring capabilities. Query domain registration and expiration information, and SSL certificate information and validity status for any domain.
 - <img src="https://aiops.drdroid.io/favicon.ico" height="14"/> [Signoz](https://github.com/DrDroidLab/signoz-mcp-server) - Comprehensive integration with [Signoz APIs](https://signoz.io/docs/userguide/apis/) and [documentation](https://signoz.io/docs/) for monitoring, observability, and debugging tasks related to your Signoz instances.
 - <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
+- <img src="https://claimhit.com/favicon.ico" height="14" /> [Bikram2112/findinfringement](https://github.com/Bikram2112/findinfringement) - Patent infringement intelligence. Find infringing products and standards using 9 AI models in parallel. SEP analysis, claim chart generation, and monitoring included.
 
 <br />
 
@@ -224,6 +225,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+-  <img src="https://claimhit.com/favicon.ico" height="14" /> [Bikram2112/findinfringement](https://github.com/Bikram2112/findinfringement) - Patent infringement intelligence. Find infringing products and standards using 9 AI models in parallel. SEP analysis, claim chart generation, and monitoring included.
 
 <br />
 
@@ -347,6 +349,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://claimhit.com/favicon.ico" height="14" /> [Bikram2112/findinfringement](https://github.com/Bikram2112/findinfringement) - Patent infringement intelligence. Find infringing products and standards using 9 AI models in parallel. SEP analysis, claim chart generation, and monitoring included.
 
 <br />
 
@@ -425,6 +428,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+- <img src="https://claimhit.com/favicon.ico" height="14" /> [Bikram2112/findinfringement](https://github.com/Bikram2112/findinfringement) - Patent infringement intelligence. Find infringing products and standards using 9 AI models in parallel. SEP analysis, claim chart generation, and monitoring included.
 
 <br />
 
